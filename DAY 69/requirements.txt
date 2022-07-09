@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 psycopg2-binary==2.9.3
+=======
+>>>>>>> 92f47297c952bc4aaadac7efd237693b5bf19f04
 gunicorn==20.1.0
 email-validator==1.2.1
 certifi==2020.6.20
